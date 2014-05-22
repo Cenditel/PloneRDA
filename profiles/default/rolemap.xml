@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<rolemap>
+    <roles>
+      <role name="Anonymous"/>
+      <role name="Authenticated"/>
+      <role name="Manager"/>
+      <role name="Member"/>
+      <role name="Owner"/>
+      <role name="Reviewer"/>
+      <role name="Reader" />
+      <role name="Editor" />
+      <role name="Contributor" />
+    </roles>
+    <permissions>
+        <permission name="PloneRDA: Add Articulo" acquire="True">
+          <role name="Contributor"/>
+          <role name="Manager"/>
+          <role name="Member"/>
+          <role name="Owner"/>
+        </permission>
+        <permission name="PloneRDA: Add Establecimiento" acquire="True">
+          <role name="Contributor"/>
+          <role name="Manager"/>
+          <role name="Member"/>
+          <role name="Owner"/>
+        </permission>
+        <permission name="PloneRDA: Add Fabricante" acquire="True">
+          <role name="Contributor"/>
+          <role name="Manager"/>
+          <role name="Member"/>
+          <role name="Owner"/>
+        </permission>
+        <permission name="PloneRDA: Add Producto" acquire="True">
+          <role name="Contributor"/>
+          <role name="Manager"/>
+          <role name="Member"/>
+          <role name="Owner"/>
+        </permission>
+        <permission name="PloneRDA: Add Organizacion" acquire="True">
+          <role name="Contributor"/>
+          <role name="Manager"/>
+          <role name="Member"/>
+          <role name="Owner"/>
+        </permission>
+        <permission name="PloneRDA: Add Comite" acquire="True">
+          <role name="Contributor"/>
+          <role name="Manager"/>
+          <role name="Member"/>
+          <role name="Owner"/>
+        </permission>
+        <permission name="PloneRDA: Add ConsejoComunalFolder" acquire="True">
+          <role name="Contributor"/>
+          <role name="Manager"/>
+          <role name="Member"/>
+          <role name="Owner"/>
+        </permission>
+    </permissions>
+</rolemap>

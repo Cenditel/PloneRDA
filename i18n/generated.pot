@@ -1,0 +1,559 @@
+# archgenxml generated POT File
+# Leonardo J. Caballero G., Ruben Rangel, Maria A. Espinoza <lcaballero@cenditel.gob.ve, rubenrang@gmail.com, maespinoza@cenditel.gob.ve>, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: PloneRDA\n"
+"POT-Creation-Date: Thu Oct 16 16:21:34 2008\n"
+"PO-Revision-Date: Thu Oct 16 16:21:34 2008\n"
+"Last-Translator: Leonardo J. Caballero G., Ruben Rangel, Maria A. Espinoza <lcaballero@cenditel.gob.ve, rubenrang@gmail.com, maespinoza@cenditel.gob.ve>\n"
+"Language-Team: Leonardo J. Caballero G., Ruben Rangel, Maria A. Espinoza <lcaballero@cenditel.gob.ve, rubenrang@gmail.com, maespinoza@cenditel.gob.ve>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"Language-Code: en\n"
+"Language-Name: English\n"
+"Preferred-Encodings: latin1 utf-8\n"
+"Domain: PloneRDA\n"
+
+#. Default: "Producto(s) elaborados(s) por este fabricante"
+#: content/Fabricante.py
+msgid ""
+msgstr ""
+
+#. Default: "Articulos"
+#: content/producto_articulo.py
+msgid "PloneRDA_label_articulos"
+msgstr ""
+
+#. Default: "Productos"
+#: content/establecimiento_producto.py
+#: content/fabricante_producto.py
+msgid "PloneRDA_label_productos"
+msgstr ""
+
+#. Default: "Seleccione un tipo de producto."
+#: content/Articulo.py
+msgid "descr_art_categoria"
+msgstr ""
+
+#. Default: "Debe seleccionar una foto del Producto, el tamaño recomendado es de 110 puntos de largo por 110 puntos de alto."
+#: content/Articulo.py
+msgid "descr_art_foto"
+msgstr ""
+
+#. Default: "Ingrese el precio del producto al mayor."
+#: content/Articulo.py
+msgid "descr_art_pmvp"
+msgstr ""
+
+#. Default: "Listado de producto(s) asociado(s) a este articulo"
+#: content/Articulo.py
+msgid "descr_art_prod"
+msgstr ""
+
+#. Default: "Seleccione la casilla si este producto es regulado."
+#: content/Articulo.py
+msgid "descr_art_regulado"
+msgstr ""
+
+#. Default: "Ingrese el nombre del producto"
+#: content/Articulo.py
+msgid "descr_art_title"
+msgstr ""
+
+#. Default: "Ingrese la dirección física del establecimiento."
+#: content/Establecimiento.py
+msgid "descr_estab_direccion"
+msgstr ""
+
+#. Default: "Ingrese el correo electrónico de contacto del establecimiento"
+#: content/Establecimiento.py
+msgid "descr_estab_email"
+msgstr ""
+
+#. Default: "Ingrese el número de fax del establecimiento."
+#: content/Establecimiento.py
+msgid "descr_estab_fax"
+msgstr ""
+
+#. Default: "Introduzca el horario de atención al público"
+#: content/Establecimiento.py
+msgid "descr_estab_horario"
+msgstr ""
+
+#. Default: "Seleccione la parroquia donde se encuentran ubicado el establecimiento."
+#: content/Establecimiento.py
+msgid "descr_estab_parroquia"
+msgstr ""
+
+#. Default: "Ingrese el sector donde se encuentran ubicado el establecimiento."
+#: content/Establecimiento.py
+msgid "descr_estab_sector"
+msgstr ""
+
+#. Default: "Ingrese la dirección física del establecimiento donde normalmente se reunen"
+#: content/ConsejoComunalFolder.py
+msgid "help_cc_direccion"
+msgstr ""
+
+#. Default: "Ingrese el correo electrónico de contacto del consejo comunal."
+#: content/ConsejoComunalFolder.py
+msgid "help_cc_email"
+msgstr ""
+
+#. Default: "Seleccione la parroquia donde se encuentran ubicado este consejo comunal"
+#: content/ConsejoComunalFolder.py
+msgid "help_cc_parroquia"
+msgstr ""
+
+#. Default: "Ingrese el sector donde se encuentran ubicado este consejo comunal"
+#: content/ConsejoComunalFolder.py
+msgid "help_cc_sector"
+msgstr ""
+
+#. Default: "Ingrese el nombre del Consejo Comunal"
+#: content/ConsejoComunalFolder.py
+msgid "help_cc_title"
+msgstr ""
+
+#. Default: "Ingrese teléfono(s) para contactos del consejo comunal."
+#: content/ConsejoComunalFolder.py
+msgid "help_cc_tlfs"
+msgstr ""
+
+#. Default: "Ingrese la descripción detallada sobre este comité o mesa técnica."
+#: content/Comite.py
+msgid "help_comi_descr"
+msgstr ""
+
+#. Default: "Por favor seleccione los miembros que conforman este comité."
+#: content/Comite.py
+msgid "help_comi_miembros"
+msgstr ""
+
+#. Default: "Ingrese el nombre del comité o mesa técnica de trabajo del consejo comunal."
+#: content/Comite.py
+msgid "help_comi_title"
+msgstr ""
+
+#. Default: "Debe seleccionar una foto del Establecimiento, el tamaño recomendado es de 100 puntos de largo por 100 puntos de alto (110x110 px)."
+#: content/Establecimiento.py
+msgid "help_estab_logo"
+msgstr ""
+
+#. Default: "Ingrese el RIF del establecimiento."
+#: content/Establecimiento.py
+msgid "help_estab_rif"
+msgstr ""
+
+#. Default: "Seleccione la tipo de establicimiento"
+#: content/Establecimiento.py
+msgid "help_estab_tipo"
+msgstr ""
+
+#. Default: "Ingrese el nombre del establecimiento."
+#: content/Establecimiento.py
+msgid "help_estab_title"
+msgstr ""
+
+#. Default: "Ingrese el número telefónico del establecimiento."
+#: content/Establecimiento.py
+msgid "help_estab_tlfs"
+msgstr ""
+
+#. Default: "Ingrese la dirección física del Fabricante"
+#: content/Fabricante.py
+msgid "help_fab_direccion"
+msgstr ""
+
+#. Default: "Dirección de correo electrónico del fabricante."
+#: content/Fabricante.py
+msgid "help_fab_email"
+msgstr ""
+
+#. Default: "Debe seleccionar una foto o logotipo del fabricante, el tamaño recomendado es de 100 puntos de largo por 100 puntos de alto."
+#: content/Fabricante.py
+msgid "help_fab_logo"
+msgstr ""
+
+#. Default: "Ingrese la dirección de la página Web del fabricante."
+#: content/Fabricante.py
+msgid "help_fab_pagweb"
+msgstr ""
+
+#. Default: "Ingrese el Registro de Información Fiscal (RIF) del fabricante."
+#: content/Fabricante.py
+msgid "help_fab_rif"
+msgstr ""
+
+#. Default: "Ingrese el nombre del Fabricante"
+#: content/Fabricante.py
+msgid "help_fab_title"
+msgstr ""
+
+#. Default: "Ingrese el ambito acción organizacional."
+#: content/Organizacion.py
+msgid "help_org_ambito"
+msgstr ""
+
+#. Default: "Ingrese la dirección física de la organización."
+#: content/Organizacion.py
+msgid "help_org_direccion"
+msgstr ""
+
+#. Default: "Ingrese el correo electrónico de contacto de la organización."
+#: content/Organizacion.py
+msgid "help_org_email"
+msgstr ""
+
+#. Default: "Ingrese el número de fax de la organización."
+#: content/Organizacion.py
+msgid "help_org_fax"
+msgstr ""
+
+#. Default: "Puede seleccionar una foto o logotipo de la organización, el tamaño recomendado es de 100 puntos de largo por 100 puntos de alto."
+#: content/Organizacion.py
+msgid "help_org_logo"
+msgstr ""
+
+#. Default: "Ingrese la misión de la organización."
+#: content/Organizacion.py
+msgid "help_org_mision"
+msgstr ""
+
+#. Default: "Ingrese la dirección de la página Web organización."
+#: content/Organizacion.py
+msgid "help_org_pagweb"
+msgstr ""
+
+#. Default: "Ingrese el nombre de la parroquia donde se encuentra ubicado la organización."
+#: content/Organizacion.py
+msgid "help_org_parroquia"
+msgstr ""
+
+#. Default: "Ingrese el Registro de Información Fiscal (RIF) de la organización."
+#: content/Organizacion.py
+msgid "help_org_rif"
+msgstr ""
+
+#. Default: "Ingrese el sector donde se encuentran ubicado esta organización."
+#: content/Organizacion.py
+msgid "help_org_sector"
+msgstr ""
+
+#. Default: "Ingrese el nombre de la organización."
+#: content/Organizacion.py
+msgid "help_org_title"
+msgstr ""
+
+#. Default: "Ingrese el número telefónico de la organización."
+#: content/Organizacion.py
+msgid "help_org_tlfs"
+msgstr ""
+
+#. Default: "Ingrese la visión de la organización."
+#: content/Organizacion.py
+msgid "help_org_vision"
+msgstr ""
+
+#. Default: "Si lo desea puede colaborar ingresando las lista de aportes nutricionales de forma detallada del producto."
+#: content/Producto.py
+msgid "help_prod_aporte_nutri"
+msgstr ""
+
+#. Default: "Ingrese la descripción detallada del producto."
+#: content/Producto.py
+msgid "help_prod_descr_detall"
+msgstr ""
+
+#. Default: "Lista de establecimiento donde se encuentra el producto."
+#: content/Producto.py
+msgid "help_prod_estab"
+msgstr ""
+
+#. Default: "Debe seleccionar una foto del Producto, el tamaño recomendado es de 100 puntos de largo por 100 puntos de alto (110x110 px)."
+#: content/Producto.py
+msgid "help_prod_foto"
+msgstr ""
+
+#. Default: "Ingrese la lista de ingredientes del producto."
+#: content/Producto.py
+msgid "help_prod_ingredientes"
+msgstr ""
+
+#. Default: "Ingrese el nombre del producto."
+#: content/Producto.py
+msgid "help_prod_marca"
+msgstr ""
+
+#. Default: "Ingrese la Presentación del producto"
+#: content/Producto.py
+msgid "help_prod_presentacion"
+msgstr ""
+
+#. Default: "Tipo de producto"
+#: content/Articulo.py
+msgid "label_art_categoria"
+msgstr ""
+
+#. Default: "Seleccione una foto del Producto"
+#: content/Articulo.py
+msgid "label_art_foto"
+msgstr ""
+
+#. Default: "Precio del producto al mayor"
+#: content/Articulo.py
+msgid "label_art_pmvp"
+msgstr ""
+
+#. Default: "Producto(s) asociado(s) a este articulo"
+#: content/Articulo.py
+msgid "label_art_prod"
+msgstr ""
+
+#. Default: "¿El Producto es regulado?"
+#: content/Articulo.py
+msgid "label_art_regulado"
+msgstr ""
+
+#. Default: "Nombre del producto"
+#: content/Articulo.py
+msgid "label_art_title"
+msgstr ""
+
+#. Default: "Dirección física"
+#: content/ConsejoComunalFolder.py
+msgid "label_cc_direccion"
+msgstr ""
+
+#. Default: "Correo electrónico del consejo comunal"
+#: content/ConsejoComunalFolder.py
+msgid "label_cc_email"
+msgstr ""
+
+#. Default: "Nombre de la parroquia"
+#: content/ConsejoComunalFolder.py
+msgid "label_cc_parroquia"
+msgstr ""
+
+#. Default: "Nombre del sector"
+#: content/ConsejoComunalFolder.py
+msgid "label_cc_sector"
+msgstr ""
+
+#. Default: "Nombre del Consejo Comunal"
+#: content/ConsejoComunalFolder.py
+msgid "label_cc_title"
+msgstr ""
+
+#. Default: "Teléfono(s) para contactos"
+#: content/ConsejoComunalFolder.py
+msgid "label_cc_tlfs"
+msgstr ""
+
+#. Default: "Descripción detallada"
+#: content/Comite.py
+msgid "label_comi_descr"
+msgstr ""
+
+#. Default: "Seleccione los miembros del comité"
+#: content/Comite.py
+msgid "label_comi_miembros"
+msgstr ""
+
+#. Default: "Nombre del Comité"
+#: content/Comite.py
+msgid "label_comi_title"
+msgstr ""
+
+#. Default: "Dirección física"
+#: content/Establecimiento.py
+msgid "label_estab_direccion"
+msgstr ""
+
+#. Default: "Correo electrónico del establecimiento"
+#: content/Establecimiento.py
+msgid "label_estab_email"
+msgstr ""
+
+#. Default: "Fax del establecimiento"
+#: content/Establecimiento.py
+msgid "label_estab_fax"
+msgstr ""
+
+#. Default: "Horario de atención"
+#: content/Establecimiento.py
+msgid "label_estab_horario"
+msgstr ""
+
+#. Default: "Seleccione una logotipo o foto del Establecimiento"
+#: content/Establecimiento.py
+msgid "label_estab_logo"
+msgstr ""
+
+#. Default: "Nombre de la parroquia"
+#: content/Establecimiento.py
+msgid "label_estab_parroquia"
+msgstr ""
+
+#. Default: "RIF del establecimiento"
+#: content/Establecimiento.py
+msgid "label_estab_rif"
+msgstr ""
+
+#. Default: "Nombre del sector"
+#: content/Establecimiento.py
+msgid "label_estab_sector"
+msgstr ""
+
+#. Default: "Tipo de establicimiento"
+#: content/Establecimiento.py
+msgid "label_estab_tipo"
+msgstr ""
+
+#. Default: "Nombre del establecimiento"
+#: content/Establecimiento.py
+msgid "label_estab_title"
+msgstr ""
+
+#. Default: "Teléfono del establecimiento"
+#: content/Establecimiento.py
+msgid "label_estab_tlfs"
+msgstr ""
+
+#. Default: "Dirección física"
+#: content/Fabricante.py
+msgid "label_fab_direccion"
+msgstr ""
+
+#. Default: "Correo electrónico del fabricante"
+#: content/Fabricante.py
+msgid "label_fab_email"
+msgstr ""
+
+#. Default: "Seleccione una foto o logotipo del fabricante"
+#: content/Fabricante.py
+msgid "label_fab_logo"
+msgstr ""
+
+#. Default: "Dirección de la página Web"
+#: content/Fabricante.py
+msgid "label_fab_pagweb"
+msgstr ""
+
+#. Default: "RIF del fabricante"
+#: content/Fabricante.py
+msgid "label_fab_rif"
+msgstr ""
+
+#. Default: "Nombre del Fabricante"
+#: content/Fabricante.py
+msgid "label_fab_title"
+msgstr ""
+
+#. Default: "Ambito acción"
+#: content/Organizacion.py
+msgid "label_org_ambito"
+msgstr ""
+
+#. Default: "Dirección física"
+#: content/Organizacion.py
+msgid "label_org_direccion"
+msgstr ""
+
+#. Default: "Correo electrónico de la organización."
+#: content/Organizacion.py
+msgid "label_org_email"
+msgstr ""
+
+#. Default: "Fax de la organización"
+#: content/Organizacion.py
+msgid "label_org_fax"
+msgstr ""
+
+#. Default: "Seleccione una foto o logotipo de la organización"
+#: content/Organizacion.py
+msgid "label_org_logo"
+msgstr ""
+
+#. Default: "Misión organizacional"
+#: content/Organizacion.py
+msgid "label_org_mision"
+msgstr ""
+
+#. Default: "Dirección de la página Web"
+#: content/Organizacion.py
+msgid "label_org_pagweb"
+msgstr ""
+
+#. Default: "Nombre de la parroquia"
+#: content/Organizacion.py
+msgid "label_org_parroquia"
+msgstr ""
+
+#. Default: "RIF de la organización"
+#: content/Organizacion.py
+msgid "label_org_rif"
+msgstr ""
+
+#. Default: "Nombre del sector"
+#: content/Organizacion.py
+msgid "label_org_sector"
+msgstr ""
+
+#. Default: "Nombre de la organización"
+#: content/Organizacion.py
+msgid "label_org_title"
+msgstr ""
+
+#. Default: "Teléfono de la organización"
+#: content/Organizacion.py
+msgid "label_org_tlfs"
+msgstr ""
+
+#. Default: "Visión organizacional"
+#: content/Organizacion.py
+msgid "label_org_vision"
+msgstr ""
+
+#. Default: "Descripción de aportes nutricional."
+#: content/Producto.py
+msgid "label_prod_aporte_nutri"
+msgstr ""
+
+#. Default: "Descripción detallada"
+#: content/Producto.py
+msgid "label_prod_descr_detall"
+msgstr ""
+
+#. Default: "Establecimiento donde se encuentra el producto"
+#: content/Producto.py
+msgid "label_prod_estab"
+msgstr ""
+
+#. Default: "Seleccione una foto del Producto."
+#: content/Producto.py
+msgid "label_prod_foto"
+msgstr ""
+
+#. Default: "Lista de ingredientes"
+#: content/Producto.py
+msgid "label_prod_ingredientes"
+msgstr ""
+
+#. Default: "Marca del producto"
+#: content/Producto.py
+msgid "label_prod_marca"
+msgstr ""
+
+#. Default: "Presentación del producto"
+#: content/Producto.py
+msgid "label_prod_presentacion"
+msgstr ""
+
+#. Default: "Nombre del producto"
+#: content/Producto.py
+msgid "label_prod_title"
+msgstr ""
+

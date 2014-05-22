@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<import-steps>
+
+ 
+ <import-step 
+    id="PloneRDA-Install-Vocabularies" 
+    handler="Products.PloneRDA.setuphandlers.installVocabularies"
+    title="Install Vocabularies for PloneRDA"
+    version="2008-10-16T16:21:41.363824">
+   <dependency step="PloneRDA-QI-dependencies"/>
+   Installs the vocabulary files into vocabulary library for PloneRDA
+ </import-step>
+
+ <import-step 
+    id="PloneRDA-Update-RoleMappings" 
+    handler="Products.PloneRDA.setuphandlers.updateRoleMappings"
+    title="Update Workflow role mappings for PloneRDA"
+    version="2008-10-16T16:21:41.363824">
+   <dependency step="PloneRDA-QI-dependencies"/>
+   updates the workflow role mappings for PloneRDA
+ </import-step>
+
+ <import-step 
+    id="PloneRDA-postInstall" 
+    handler="Products.PloneRDA.setuphandlers.postInstall"
+    title="manual coded post-install for PloneRDA"
+    version="2008-10-16T16:21:41.363824">
+   <dependency step="PloneRDA-QI-dependencies"/>
+   manual coded post-install for PloneRDA
+ </import-step>
+
+<!-- ##code-section ADDITIONALSTEPS -->
+<!-- ##/code-section ADDITIONALSTEPS --> 
+
+</import-steps>
+ 

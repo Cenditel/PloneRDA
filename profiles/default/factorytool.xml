@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<object name="portal_factory" meta_type="Plone Factory Tool">
+ <factorytypes>
+  <type portal_type="Articulo"/>
+  <type portal_type="Establecimiento"/>
+  <type portal_type="Fabricante"/>
+  <type portal_type="Producto"/>
+  <type portal_type="Comite"/>
+  <type portal_type="Organizacion"/>
+  <type portal_type="ConsejoComunalFolder"/>
+ </factorytypes>
+</object>
