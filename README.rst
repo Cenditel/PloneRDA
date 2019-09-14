@@ -55,21 +55,21 @@ Este producto tiene traducciones disponible en
 Contribuir
 ----------
 
-- Issue Tracker: https://github.com/cenditel/PloneRDA/issues
+- Registro de incidencia: https://github.com/cenditel/PloneRDA/issues
 
 - Código fuente: https://github.com/cenditel/PloneRDA
 
 - Documentación: https://cenditel-docs.rtfd.io/
 
 
-Support
+Soporte
 -------
 
-If you are having issues, please let us know via the Issue Tracker.
-We can response questions and comments to **leonardocaballero at gmail dot com**.
+Si usted tiene algún incidente, por favor hágalo saber vía el Registro de incidencia.
+Nosotros podemos responder preguntas y comentarios en **leonardocaballero at gmail dot com**.
 
 
-License
--------
+Licencia
+--------
 
-The project is licensed under the GPLv2.
+Este proyecto es licenciando bajo la GPLv2.
